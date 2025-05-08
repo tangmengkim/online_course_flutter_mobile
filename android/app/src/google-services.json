@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "437196460212",
+    "project_id": "fir-message-9c5f9",
+    "storage_bucket": "fir-message-9c5f9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437196460212:android:d0e6ed64a31948d09807e1",
+        "android_client_info": {
+          "package_name": "com.ecotechkh.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDllxTLhZBe1bOhB0L3m3Mu-g5miIw47K0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437196460212:android:aa2aab6d119a32c89807e1",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDllxTLhZBe1bOhB0L3m3Mu-g5miIw47K0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
